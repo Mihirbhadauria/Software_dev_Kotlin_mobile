@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MaPremièreApp</string>
+    <string name="Title">Je m\'appelle Mihir !</string>
+    <string name="artist">Chèvre</string>
+    <string name="source">Forbes</string>
+    <string name="Steal" >Voler</string>
+    <string name="Reset" >Réinitialiser</string>
+    <string name="Goal" >But</string>
+    <string name="score"><![CDATA[Résultat : %1$d]]></string>
+</resources>

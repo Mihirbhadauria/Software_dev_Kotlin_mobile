@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="Title">My name is Mihir!</string>
+    <string name="artist">Goat</string>
+    <string name="source">Forbes</string>
+    <string name="Steal" >Steal</string>
+    <string name="Reset" >Reset</string>
+    <string name="Goal" >Goal</string>
+    <string name="score">Score: %1$d</string>
+</resources>

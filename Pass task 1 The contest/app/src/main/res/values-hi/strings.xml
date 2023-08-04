@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="Title">मेरा नाम मिहिर है!</string>
+    <string name="artist">बकरी</string>
+    <string name="source">फोर्ब्स</string>
+    <string name="Steal" >चुराना</string>
+    <string name="Reset" >रीसेट</string>
+    <string name="Goal" >लक्ष्य</string>
+    <string name="score">स्कोर: %1$d</string>
+</resources>
